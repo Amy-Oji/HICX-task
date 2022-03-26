@@ -22,7 +22,7 @@ The application was developed with java 17. The only dependencies added are thos
 The application can be run through the main method. Once you run the main method, the application starts. However, you have to provide a directory path located in your local machine in the 
 'working directory' of the Run configuration environment.
 
-Alternatively, you can comment out the first if condition in the main method that checks if a path was passed in the programme argument (the working directory field in the RUN environment) 
+Alternatively, you can comment out the first 'if condition' in the main method that checks if a path was passed in the programme argument (the working directory field in the RUN environment) 
 and the assign a valid path to a directory in your local machine to the variable **"passedDirectoryPath"** then run the main method to use the programme.
 
 
