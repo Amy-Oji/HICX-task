@@ -17,7 +17,7 @@ This directory monitor app is made up of four packages: the directory monitor, s
 **statistic package:** contains the classes the process different types of statistics from the file content. The statistics implemented include: word count, number of dots and most used word.
 
 ****
-The application was developed with java 17 with IntelliJ IDE. The only dependencies added are those necessary for testing: JUnit, Mockito.
+The application was developed using Java 17 with IntelliJ IDE. The only dependencies added are those necessary for testing: JUnit, Mockito.
 ****
 The application can be run through the main method. Once you run the main method, the application starts. However, you have to provide a directory path located in your local machine in the 
 'working directory' of the Run configuration environment.
